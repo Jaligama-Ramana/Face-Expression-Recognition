@@ -3,6 +3,8 @@ In this project me and my friend created a cnn model which identifies 7 differen
 
 'Facial Emotion Recognition' file contains model training code. Sadly i was'nt able to upload the dataset and h5 file of the model that i trained as they exceed 25mb limit.
 
-'Face Expression(path)' file contains the code in which you can give an image to the model to predict.(you just need h5 file to run this)
+'Face Expression(path)' file contains the code in which you can give an image to the model to predict.
 
 'Face Expression haarcascade' by running this code your webcam will open and detect facial expressions of all the persons visible in the frame in real time.
+
+'face recognition feature visualization' this file is for research purpose. It shows how the features are being extracted for an image by the model in each layer.
